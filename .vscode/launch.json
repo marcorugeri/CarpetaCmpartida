@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ClaseUno",
+            "request": "launch",
+            "mainClass": "PaqueteUno.ClaseUno",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch meto2s",
+            "request": "launch",
+            "mainClass": "meto2s",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodos",
+            "request": "launch",
+            "mainClass": "metodos",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch persona",
+            "request": "launch",
+            "mainClass": "persona",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuOperaciones",
+            "request": "launch",
+            "mainClass": "MenuOperaciones",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch menuConFunciones",
+            "request": "launch",
+            "mainClass": "menuConFunciones",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Funciones2",
+            "request": "launch",
+            "mainClass": "Funciones2",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Funciones",
+            "request": "launch",
+            "mainClass": "Funciones",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BucleFor",
+            "request": "launch",
+            "mainClass": "BucleFor",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "Java Udemy_bf126fc3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch EntradasDatos",
+            "request": "launch",
+            "mainClass": "EntradasDatos",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpDeComparacion",
+            "request": "launch",
+            "mainClass": "OpDeComparacion",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoAritmetico",
+            "request": "launch",
+            "mainClass": "OperadoAritmetico",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresAritmeticos2",
+            "request": "launch",
+            "mainClass": "OperadoresAritmeticos2",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpsIncDec",
+            "request": "launch",
+            "mainClass": "OpsIncDec",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch comentarios",
+            "request": "launch",
+            "mainClass": "comentarios",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadorTernario",
+            "request": "launch",
+            "mainClass": "operadorTernario",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadores",
+            "request": "launch",
+            "mainClass": "operadores",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch precedencias",
+            "request": "launch",
+            "mainClass": "precedencias",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch primero",
+            "request": "launch",
+            "mainClass": "primero",
+            "projectName": "Java Udemy_984b58f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Java Udemy_984b58f9"
+        }
+    ]
+}

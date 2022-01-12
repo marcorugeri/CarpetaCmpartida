@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class operadores {
+
+    public static void main(String[] args) {
+        scanner sc = new scanner (System.in);
+
+    }
+    
+}
